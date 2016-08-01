@@ -1,0 +1,1 @@
+# We can use it to select the appropriate backend server via a consistent hash ring.Simultaneously,it implements a load balance utility.
